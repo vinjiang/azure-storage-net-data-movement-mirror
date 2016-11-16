@@ -2,6 +2,9 @@
 #THIS IS TEST CHANGE FOR BRANCHING STRATEGY - 2
 #THIS IS TEST CHANGE FOR BRANCHING STRATEGY - 3
 
+
+#THIS IS TEST CHANGE FOR BRANCHING STRATEGY - 4 (7.0)
+
 # Microsoft Azure Storage Data Movement Library (0.4.0)
 
 The Microsoft Azure Storage Data Movement Library designed for high-performance uploading, downloading and copying Azure Storage Blob and File. This library is based on the core data movement framework that powers [AzCopy](https://azure.microsoft.com/documentation/articles/storage-use-azcopy/).
