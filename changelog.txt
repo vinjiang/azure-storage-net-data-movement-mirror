@@ -1,3 +1,6 @@
+#THIS IS TEST CHANGE FOR BRANCHING STRATEGY - DEV branch - 1
+
+
 2016.11.04 Version 0.4.0
  * All Services
    - Upgraded azure storage client library to 7.2.1
