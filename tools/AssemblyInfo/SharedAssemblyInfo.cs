@@ -12,8 +12,13 @@ using System.Reflection;
 using System.Resources;
 using System.Runtime.InteropServices;
 
+<<<<<<< HEAD
 [assembly: AssemblyVersion("0.6.0.3")]
 [assembly: AssemblyFileVersion("0.6.0.3")]
+=======
+[assembly: AssemblyVersion("0.6.0.2")]
+[assembly: AssemblyFileVersion("0.6.0.2")]
+>>>>>>> 0e4fea5e95c24c5acdb04e98eb2caef6bdb2a31b
 
 [assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("Microsoft Azure Storage")]
